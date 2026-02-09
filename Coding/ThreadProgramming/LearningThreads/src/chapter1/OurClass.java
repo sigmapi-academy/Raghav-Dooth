@@ -5,7 +5,7 @@ public class OurClass extends Thread{
     public void run(){
         int i;
         for(i = 0; i < 10; i++){
-            System.out.println("Hello");
+            System.out.println("Hello world");
         }
     }
 }
